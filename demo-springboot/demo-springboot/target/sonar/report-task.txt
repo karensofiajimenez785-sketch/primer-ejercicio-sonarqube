@@ -1,0 +1,6 @@
+projectKey=com.aprendiz:demo-springboo
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=com.aprendiz%3Ademo-springboo
+ceTaskId=9d9c204c-541e-493b-8376-82c58527605d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9d9c204c-541e-493b-8376-82c58527605d

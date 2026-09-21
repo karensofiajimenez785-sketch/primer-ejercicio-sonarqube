@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.aprendiz.demo_springboot.DemoSpringbootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.523 s -- in com.aprendiz.demo_springboot.DemoSpringbootApplicationTests
